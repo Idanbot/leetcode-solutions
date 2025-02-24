@@ -1,41 +1,28 @@
-# leetcode-solutions
-my own personal leetcode solutions in various programming languages
+# LeetCode Solutions
+My own personal LeetCode solutions in various programming languages.
 
-# Problems
+## Problems
 <details>
 <summary><b>Arrays and Strings</b></summary>
 
+### Easy
+- [✖] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [✖] [Find Closest Number to Zero (2239)](https://leetcode.com/problems/find-closest-number-to-zero/description/)
+- [✖] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [✖] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [✖] [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- [✖] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [✖] [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
-<details>
-<summary>Easy</summary>
+### Medium
+- [✖] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [✖] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [✖] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [✖] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
-[✖] 2239.Find Closest Number to Zero - https://leetcode.com/problems/find-closest-number-to-zero/description/
-
-[✖] Merge Strings Alternately - https://leetcode.com/problems/merge-strings-alternately/
-
-[✖] Roman to Integer - https://leetcode.com/problems/roman-to-integer/
-
-[✖] Is Subsequence - https://leetcode.com/problems/is-subsequence/
-
-[✖] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
-[✖] Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/
-
-[✖] Summary Ranges - https://leetcode.com/problems/summary-ranges/
-</details>
-    
-<details>
-<summary>Medium</summary>
-
-[✖] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
-
-[✖] Merge Intervals - https://leetcode.com/problems/merge-intervals/
-
-[✖] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
-
-[✖] Rotate Image - https://leetcode.com/problems/rotate-image/
-</details>
+### Hard (To be added)
+- *No problems listed yet.*
 </details>
 
-# References
-1. https://algomap.io/
+## References
+1. [AlgoMap](https://algomap.io/)
