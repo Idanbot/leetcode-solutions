@@ -1,0 +1,4 @@
+# VSCODE
+.vscode/*
+!.vscode/settings.json
+.history/
